@@ -1,6 +1,5 @@
 
-https://github.com/mukundjha-mj/Disease-Prediction/blob/main/image.png
-
+![Alt text](image.png)
 
 # 🔬 Disease-Prediction
 
