@@ -1,7 +1,4 @@
 
-<p align="center">
-  <img src="./image.png" alt="Disease Prediction Banner" width="800">
-</p>
 
 
 # 🔬 Disease-Prediction
@@ -11,8 +8,15 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.0+-red.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mukundjha-mj/Disease-Prediction/main/assets/banner.png" alt="Disease Prediction Banner" width="800">
+  <img src="./image.png" alt="Disease Prediction Banner" width="800">
+</p>
+<p align="center">
+  <img src="./image2.png" alt="Disease Prediction Banner" width="800">
+</p>
+<p align="center">
+  <img src="./image3.png" alt="Disease Prediction Banner" width="800">
 </p>
 
 ## 📋 Project Description
