@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/mukundjha-mj/Disease-Prediction/blob/main/image.png" alt="Disease Prediction Banner" width="800">
+  <img src="./image.png" alt="Disease Prediction Banner" width="800">
 </p>
 
 
