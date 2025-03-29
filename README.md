@@ -1,5 +1,8 @@
 
-![Alt text](image.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mukundjha-mj/Disease-Prediction/main/assets/banner.png" alt="Disease Prediction Banner" width="800">
+</p>
+
 
 # 🔬 Disease-Prediction
 
