@@ -1,5 +1,5 @@
 
-image.png
+https://github.com/mukundjha-mj/Disease-Prediction/blob/main/image.png
 
 
 # 🔬 Disease-Prediction
@@ -107,9 +107,7 @@ For any questions or inquiries, please contact:
 - 👨‍💻 GitHub: [mukundjha-mj](https://github.com/mukundjha-mj)
 - 📧 Email: mukundjha204@gmail.com
 
-## 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=mukundjha-mj/Disease-Prediction&type=Date)](https://star-history.com/#mukundjha-mj/Disease-Prediction&Date)
 
 ---
 
